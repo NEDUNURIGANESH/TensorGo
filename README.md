@@ -1,5 +1,5 @@
 # TensorGo
-###Steps to create a react App:<br>
+### Steps to create a react App:<br>
 install node.js from nodejs.org <br>
 To create react App use: npx create-react-app "appName"<br>
 cd "appName"
@@ -8,7 +8,7 @@ Dependencies used for react:<br>
 --react-router-dom <br>
 To install these dependencies use command: npm install axios react-router-dom<br>
 
-###Dependencies used for node.js:<br>
+### Dependencies used for node.js:<br>
 --express (for routing)<br>
 --cors<br>
 --nodemon<br>
