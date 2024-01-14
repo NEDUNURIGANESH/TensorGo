@@ -1,0 +1,35 @@
+/* Add this CSS to your styles.module.css file */
+
+.compose-mail-container {
+    text-align: center;
+  }
+  
+  .compose-mail-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .compose-mail-label {
+    margin-bottom: 5px;
+  }
+  
+  .compose-mail-input,
+  .compose-mail-textarea {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .compose-mail-button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .compose-mail-button:hover {
+    background-color: #0056b3;
+  }
+  
